@@ -154,7 +154,7 @@ class _FeedScreenState extends State<FeedScreen> {
               child: Padding(
                 padding: EdgeInsets.all(24),
                 child: Text(
-                  'Welcome! No posts yet.\nTap + to create the first post.',
+                  'Welcome to the feed! No posts yet.\nTap + to create the first post.',
                   textAlign: TextAlign.center,
                 ),
               ),
