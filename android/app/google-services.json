@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788573879128",
+    "project_id": "social-media-app-auth-cccca",
+    "storage_bucket": "social-media-app-auth-cccca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788573879128:android:24344cf27f3ecbcb34c32d",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymDAIFHCwjBJd-Dr2q4wpz9Me0bLRTyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
